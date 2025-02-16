@@ -1,0 +1,226 @@
+﻿<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fuzangeonau</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0d1117;
+            color: white;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding-top: 50px;
+        }
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            background-color: #161b22;
+            padding: 15px;
+        }
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+        }
+        .navbar a:hover {
+            background-color: #21262d;
+            border-radius: 5px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background-color: #161b22;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        th, td {
+            padding: 15px;
+            border: 1px solid #30363d;
+        }
+        th {
+            background-color: #21262d;
+        }
+        .rank-1 { background-color: gold; }
+        .rank-2 { background-color: silver; }
+        .rank-3 { background-color: #cd7f32; }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <a href="https://Fuzangeonau.TierList">🏆 Overall</a>
+        <a href="#">💬 Discord</a>
+        <a href="#">🏠 Home</a>
+        <a href="#">📊 Rankings</a>
+    </div>
+    <div class="container">
+        <h1>Fuzangeonau Tier Liste</h1>
+        <table>
+            <tr>
+                <th>#</th>
+                <th>Spieler</th>
+                <th>Rang</th>
+                <th>Tiers</th>
+                <th>Punkte</th>
+            </tr>
+            <!-- Platz 1 bis 100 -->
+            <tr class="rank-1">
+                <td>1</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+            <tr class="rank-2">
+                <td>2</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+            <tr class="rank-3">
+                <td>3</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>12</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>13</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>14</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>15</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>16</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>17</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>18</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>19</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>20</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+            <!-- Füge hier die restlichen 80 Reihen hinzu -->
+            <!-- Wiederhole das Muster für Plätze 21 bis 100 -->
+            <tr>
+                <td>100</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+                <td>---</td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
